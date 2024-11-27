@@ -1,0 +1,10 @@
+.boxes {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.box { 
+    width: 25%;
+    margin: 20px 2px;
+}

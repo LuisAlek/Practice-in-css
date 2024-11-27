@@ -1,0 +1,1 @@
+Theory: When creating the sidebar, I noticed that when trying to add text in addition to the menu, the text was placed at the bottom of the sidebar, but we wanted to occupy the space left when creating the sidebar, to occupy that space a div was created that encloses all the content with a display:flex which gave us the opportunity to use the space next to the menu.

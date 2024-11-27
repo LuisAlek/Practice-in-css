@@ -1,0 +1,1 @@
+Theory: A sidebar-style menu was created using flex and other styles, the important utility being the flex-direction: column, which arranged the letters vertically to simulate a sidebar.

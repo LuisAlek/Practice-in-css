@@ -1,0 +1,27 @@
+body {
+    margin: 100px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.card { 
+    display: flex;
+    align-items: flex-end;
+    height: 800px;
+    background-image: url("../../image/Linkin.png");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    border: solid ;
+}
+
+.content {
+    font-size: 1.5rem;
+    font-stretch: expanded;
+    height: 8em;
+    width: 100%;
+    padding: 1em 8em;
+    background-color: rgba(15,15,15, 0.6);
+    text-align: center;
+    color: rgb(255, 255, 255);
+    text-shadow: rgb(0, 0, 0) 3px 3px 3px;
+}
