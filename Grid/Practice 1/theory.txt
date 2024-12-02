@@ -1,0 +1,2 @@
+Theory: Here we use Grid-Template-Columns to divide columns on the web, we know 12 columns if I put grid
+Grid-Template-Columns: Auto, it would occupy 1 column, therefore each column occupies the 12 existing ones

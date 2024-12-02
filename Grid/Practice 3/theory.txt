@@ -1,0 +1,1 @@
+Theory: We have available in GRIP is the FR (proportions) is another way of assigning sizes with the fraction unit, dividing free space into fractions.It refers to the fact that the content refers to fractions between the columns and is used in grid-tamplate-columns

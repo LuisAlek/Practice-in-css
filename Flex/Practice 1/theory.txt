@@ -1,1 +1,1 @@
-Theory: Understanding flexibility and justifying content in images and text
+Theory: Understanding flex and justify content in images and text

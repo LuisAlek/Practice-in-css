@@ -1,0 +1,1 @@
+Theory: Grid Area will give a name to each of the areas that make up the website (Header, Main, Sidebar, Footer), in Grid Template Area is to specify what space corresponds to each area on the website.It is preferable to manipulate the latter using letters to minimize code space. When we repeat "B B C C" it is to refer to that Main and Sidebar will occupy 2 rows in their space.

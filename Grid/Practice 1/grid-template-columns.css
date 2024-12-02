@@ -1,0 +1,6 @@
+.grid-content {
+    display: grid;
+    /* grid-template-columns: repeat(5, 1fr); 5 columnas */
+    grid-template-columns: auto auto auto auto auto; /* 5 columnas */
+
+}

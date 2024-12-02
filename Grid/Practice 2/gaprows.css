@@ -1,0 +1,11 @@
+.grid-content {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  /* grid-template-rows: 200px 300px 500px; para la primer fila en especifico */
+  grid-auto-rows: 200px; /* para todas las filas existentes */
+  gap: 10px;
+}
+
+.grid-items {
+    border: solid 1px black;
+}

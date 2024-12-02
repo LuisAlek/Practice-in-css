@@ -1,0 +1,1 @@
+Theory: Grav specifies the spacing between rows and columns by applying a gap. It is a simple way to provide spacing between elements in a grid to improve the readability of the content. While the Grid Template Rows only gives that spacing for the first row in specific.
