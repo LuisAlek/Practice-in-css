@@ -1,0 +1,14 @@
+Theory: Media Queries is a block of CSS that is executed only if a condition is met that can be based on the specific wide of viewports (device in which the website is observed), Using @media with a condition. 
+
+
+Measurement graph:
+
+Extra small: < 576 px 
+
+Small: >= 576 px 
+
+Medium: >= 768 px 
+
+Large: >= 992 px 
+
+Extra large: >= 1200 px 

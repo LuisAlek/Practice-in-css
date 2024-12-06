@@ -1,0 +1,1 @@
+It is advisable to start the Media Queries by Vision Mobile to make it more progressive and simple to adapt to Tablet and PC, of the opposite will have big problems when trying to manage it for mobile

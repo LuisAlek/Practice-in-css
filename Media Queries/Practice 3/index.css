@@ -1,0 +1,29 @@
+.image {
+    padding: 3px;
+    margin: 2px;
+}
+
+img {    
+    height: 100%;
+    width: 100%;
+    border-end-end-radius: 10px;
+    border-end-start-radius: 10px;
+    border: solid 1px black;
+}
+
+.grid-content {
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+@media (min-width: 576px) {
+    .grid-content {     
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media (min-width: 782px) {
+    .grid-content {     
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}
